@@ -1,0 +1,21 @@
+3️⃣ Windows Requirement (Important)
+
+
+
+For Windows systems, install Npcap to enable Layer 2 packet access:
+
+
+
+Download from: https://npcap.com/
+
+
+
+During installation, enable:
+
+
+
+✔ WinPcap API-compatible mode
+
+
+
+✔ Install for all users
